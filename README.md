@@ -32,9 +32,10 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://res.clou
  ### 📚 Desenvolvimento contínuo
 
 Pretendo continuar aperfeiçoando minhas habilidades como programador! Desafios sempre são bons para colocar em prática o que aprendemos!
----
+
 
 Feito por Luidy Camara
+---
 
 
 
