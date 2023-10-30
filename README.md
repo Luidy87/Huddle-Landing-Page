@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 
 
-✍️  ## O que aprendi  
+ ## ✍️ O que aprendi  
 
 Coloquei em prática módulos estudados, como o flex e suas propriedades, o efeito de transição, e a aplicação da responsividade em diferentes dispositivos.
 
@@ -29,7 +29,7 @@ Coloquei em prática módulos estudados, como o flex e suas propriedades, o efei
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/m8aueljlhfwzve7zxpy7.jpg). 
 
-📚 ### Desenvolvimento contínuo
+ ### 📚 Desenvolvimento contínuo
 
 Pretendo continuar aperfeiçoando minhas habilidades como programador! Desafios sempre são bons para colocar em prática o que aprendemos!
 ---
