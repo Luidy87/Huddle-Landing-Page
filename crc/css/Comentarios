@@ -1,0 +1,9 @@
+Comentários:
+
+. Tentei fazer ao máximo na resolução do design com auxílio da extensão perfect pixel, porém acredito que o tamanho da resolução do design está diferente, pois sobrou um espaçamento lateral na direita.
+
+. Tentei colocar a resolução max-width:600 para o responsivo, mas quando colocava, alterava também o principal (que tem uma largura bem  maior), então deixei somente como um comentário. Eu realmente não sei o por quê disto está acontecendo.
+
+. Acabei misturando porcentagem com px, acredito que isto não seja muito legal
+
+. Sei que preciso aprender muito ainda a melhorar o código!

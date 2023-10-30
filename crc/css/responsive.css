@@ -1,0 +1,169 @@
+/*@media (max-width:600px){
+body{
+    background-image: url('../images/bg-desktop.svg');
+}
+    .container{
+    margin-top: 50px;
+}
+
+.main{
+    flex-direction: column;
+}
+
+.main .content .title{
+    width: 100%;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 45px;
+    }
+}
+
+.main .content .text{
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    
+}
+
+.main .content .btn{
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+.footer .social  {
+    margin-left: 400px;
+}
+
+.footer .social{
+    margin-left: 0%;
+    
+}
+
+.footer .social a{
+    margin-top: 40px;
+    
+}*/
+
+@media (max-width: 769px){
+    background-image: url('../images/bg-mobile.svg');
+    background-repeat: no-repeat;
+    .header{
+        padding-left: 40px;
+        
+    }
+    .header .icon img{
+        /*margin-right: 0px;*/
+        width: 40%;   
+        }
+    .main{
+        /*display: flex;*/
+        flex-direction: column;
+    }
+    
+    .main{
+        margin-top: 50px;
+        align-items: center;
+        justify-content: center;
+    }
+    .main .image{
+        width: 80%;
+    }
+    .main .content .title{
+        width: 100%;
+        text-align: center;
+        margin-top: 150px;
+        font-size: 42px;
+        }
+    
+    .main .content .text{
+            width: 100%;
+            font-size: 30px;
+            text-align: center;
+            
+        }
+    .main .content .btn{
+        width: 100%;
+        text-align: center;
+    }
+        .footer .social{
+            margin-left: 0%;
+            
+        }
+    
+        .footer .social a{
+            margin-top: 40px;
+            
+        }
+
+    }
+    
+   
+
+@media (max-width:415px){
+
+body{
+background-image: url('../images/bg-mobile.svg');
+background-repeat: no-repeat;
+}
+
+.header{
+    padding-left: 40px;
+    
+}
+.header .icon img{
+    /*margin-right: 0px;*/
+    width: 40%;   
+    }
+.main{
+    /*display: flex;*/
+    flex-direction: column;
+}
+
+.main{
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.main .image{
+    width: 80%;
+}
+.main .content .title{
+    width: 100%;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 30px;
+    }
+
+.main .content .text{
+        width: 100%;
+        font-size: 18px;
+        text-align: center;
+        
+    }
+.main .content .btn{
+    width: 100%;
+    text-align: center;
+}
+    .footer .social{
+        margin-left: 0%;
+        
+    }
+
+    .footer .social a{
+        margin-top: 40px;
+        
+    }
+}
+
+@media (max-width:376px){
+
+   
+    .main .content .title{
+        font-size: 28px;
+        }
+    .main .content .text{
+        font-size: 17px;
+            
+        }
+    }
