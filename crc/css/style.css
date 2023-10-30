@@ -85,6 +85,7 @@ body{
 .main .content a:hover{
 color: white;
 background-color: var(--SoftMagenta);
+transition: .7s ease-in-out;
 }
 
 
@@ -106,6 +107,7 @@ background-color: var(--SoftMagenta);
     width: 40px;
     justify-content: center;
     margin-right: 10px;
+    transition: .5s ease-in-out;
 
 }
 
